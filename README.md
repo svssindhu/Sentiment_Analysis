@@ -1,2 +1,2 @@
-# Sentiment_Analysis
-According to the sentence, the emote is going to change
+# Sentiment_Analyzer
+Ask people a movie review and get to know people's reaction with an Emote
